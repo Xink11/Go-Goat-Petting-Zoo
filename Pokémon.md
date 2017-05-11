@@ -8,3 +8,5 @@ We have many Pokémon from many regions!
 - 1 Mudbray from Alola,
 - 3 Torchics from Hoenn,
 - And 2 Zigzagoons from Hoenn!
+
+[Back to Home Page](https://xink11.github.io/Go-Goat-Petting-Zoo/)
