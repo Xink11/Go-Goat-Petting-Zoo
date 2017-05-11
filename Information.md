@@ -8,3 +8,5 @@ If you are allergic to fur or feathers, it is not our fault if you die.
 
 Materials Provided-
 Brushes and combs are provided.  You must bring your own hands and feet.
+
+[Home page](Xink11.github.io/Go-Goat-Petting-Zoo)
