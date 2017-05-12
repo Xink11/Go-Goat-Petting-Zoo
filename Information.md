@@ -9,4 +9,6 @@ If you are allergic to fur or feathers, it is not our fault if you die.
 Materials Provided-
 Brushes and combs are provided.  You must bring your own hands and feet.
 
+![Castelia City](http://cdn.bulbagarden.net/upload/thumb/a/ae/Castelia_City.png/300px-Castelia_City.png)
+
 [Home page](https://xink11.github.io/Go-Goat-Petting-Zoo)
