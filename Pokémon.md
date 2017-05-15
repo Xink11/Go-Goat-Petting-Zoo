@@ -9,6 +9,6 @@ We have many Pokémon from many regions!
 - 3 Torchics from Hoenn,
 - And 2 Zigzagoons from Hoenn!
 
-![Torchic](http://i409.photobucket.com/albums/pp172/Femmelink/Pokemon/Torchic-2.jpg)
+![Torchic](http://images.nintendolife.com/news/2013/10/pokemon_x_and_y_torchic_distribution_announced/attachment/0/300x.jpg)
 
 [Back to Home Page](https://xink11.github.io/Go-Goat-Petting-Zoo/)
